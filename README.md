@@ -3,7 +3,8 @@
 A web application that recommends the most relevant SHL assessments based on a natural language query or job description. This project leverages semantic matching with a Sentence Transformer to compare user input against SHL assessment data stored in a MySQL database. The application features a Flask backend and a responsive frontend built with HTML, CSS, and JavaScript.
 
 ![Screenshot 2025-04-07 022843](https://github.com/user-attachments/assets/ec1b2ee6-7348-47f0-a6cd-4f23dff02e6c)
-![Screenshot 2025-04-07 022843](https://github.com/user-attachments/assets/031e9bab-bdc7-4ea2-9936-c32534d00a63)
+![Screenshot 2025-04-07 022905](https://github.com/user-attachments/assets/6b675e8d-e397-421f-827f-b8eaf6fdec48)
+
 
 
 ## Table of Contents
